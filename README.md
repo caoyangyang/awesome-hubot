@@ -220,3 +220,14 @@ you're having issues.
 HUBOT_SHELLCMD_KEYWORD=run HUBOT_SLACK_TOKEN=token ./bin/hubot --adapter slack
 ```
 
+### issue
+mac can't use ```readlink -f```,so we use greadlink to replace
+```
+brew install coreutils
+```
+
+
+
+
+
+
