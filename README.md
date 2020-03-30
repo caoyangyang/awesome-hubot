@@ -215,7 +215,8 @@ you're having issues.
 
 
 ## how to use
-``
-HUBOT_SHELLCMD_KEYWORD=run HUBOT_SLACK_TOKEN=token ./bin/hubot --adapter slack
 
-``
+```
+HUBOT_SHELLCMD_KEYWORD=run HUBOT_SLACK_TOKEN=token ./bin/hubot --adapter slack
+```
+
